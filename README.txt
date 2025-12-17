@@ -1,3 +1,5 @@
 pip install pygame
 
-python -m PyInstaller --onefile --windowed --name "LAN_Tetris" main.py
+python3 main.py
+
+python -m PyInstaller --onefile --windowed --name "Tetris" main.py
